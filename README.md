@@ -23,19 +23,19 @@ Unfortunately, seller data is not given by a normal search. Otherwise I'd have c
 ### Plots
 Did I hear you say, "I want violin plots, waffle charts and choropleth maps?".
 
-![boxplot emperors](/boxplot emperors.png)
+![boxplot emperors](https://raw.githubusercontent.com/matteoferla/Roman-coins-on-eBay/master/boxplot%20emperors.png)
 Edit: y-axis is price in USD.
 
-![coin per emperors](/coin per emperors.png)
+![coin per emperors](https://raw.githubusercontent.com/matteoferla/Roman-coins-on-eBay/master/coin%20per%20emperors.png)
 NB. Some emperors, such as Philip I and Constantine go by alternative names.
 
-![coins per denomination](/coins per denomination.png)
+![coins per denomination](https://raw.githubusercontent.com/matteoferla/Roman-coins-on-eBay/master/coins%20per%20denomination.png)
 
-![denomination over time](/denomination over time.png)
+![denomination over time](https://raw.githubusercontent.com/matteoferla/Roman-coins-on-eBay/master/denomination%20over%20time.png)
 Edit: typo in title... should read by denomination
 
-![seller location](/seller location.png)
+![seller location](https://raw.githubusercontent.com/matteoferla/Roman-coins-on-eBay/master/seller%20location.png)
 
-![euro](/euro sellers.png)
+![euro](https://raw.githubusercontent.com/matteoferla/Roman-coins-on-eBay/master/euro%20sellers.png)
 NB. A permit is required to export Roman coins from Italy
 
