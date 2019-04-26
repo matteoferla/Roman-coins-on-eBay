@@ -1,6 +1,8 @@
 # Analysis of eBay Roman coins
 There are a lot of coins sold on eBay. But what are the most popular. I would have said Gordian III antoninianus, but turns out it is Hadrian denarius.
 
+![queen](https://raw.githubusercontent.com/matteoferla/Roman-coins-on-eBay/master/queen.jpg)
+
 ## Textmining
 I textmined the titles for emperor and denomination.
 
