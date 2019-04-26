@@ -20,3 +20,22 @@ I am mighty tempted to do a Hugh transform on circles in figures, de-prospective
 And there are the fake sellers.
 Unfortunately, seller data is not given by a normal search. Otherwise I'd have crosschecked with [the list of fake sellers](http://www.forumancientcoins.com/board/index.php?topic=18502.0).
 
+### Plots
+Did I hear you say, "I want violin plots, waffle charts and choropleth maps?".
+
+![boxplot emperors](boxplot emperors.png)
+Edit: y-axis is price in USD.
+
+![coin per emperors](coin per emperors.png)
+NB. Some emperors, such as Philip I and Constantine go by alternative names.
+
+![coins per denomination](coins per denomination.png)
+
+![denomination over time](denomination over time.png)
+Edit: typo in title... should read by denomination
+
+![seller location](seller location.png)
+
+![euro](euro sellers.png)
+NB. A permit is required to export Roman coins from Italy
+
